@@ -38,7 +38,7 @@ KANGING_STR = [
 
 @register(outgoing=True, pattern="^.kang")
 async def kang(args):
-    """ For .kang command, kangs stickers or creates new ones. """
+    """ For .colong command, kangs stickers or creates new ones. """
     user = await bot.get_me()
     if not user.username:
         user.username = user.first_name
