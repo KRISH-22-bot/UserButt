@@ -17,8 +17,8 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`JEMBOD\n`"
-    "`\n`"
+    "`haloo\n`"
+    "`ada keperluan apa\n`"
     "`\n`"
     "`\n\n`"
     "`*This is an automated message.\n`"
